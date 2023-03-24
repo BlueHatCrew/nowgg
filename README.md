@@ -1,2 +1,2 @@
-<center># Now.gg-Roblox
-Now.gg Roblox</center>
+# Now.gg-Roblox
+<h1 style="text-align:center;">Now.gg Roblox</h1>
